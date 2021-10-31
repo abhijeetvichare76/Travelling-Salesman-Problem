@@ -1,6 +1,6 @@
 # Travelling-Salesman-Problem
 
-#### This problem is part of the assignment of course CS-551 (Elements of Artificial Intelligence) taught by Prof. David Crandall. This code was created in collaboration with Raksha Rank.
+#### This problem is part of the assignment of course CS-551 (Elements of Artificial Intelligence) taught by Prof. David Crandall. This code was created in collaboration with Raksha Rank and Sreekar Chigurupati.
 
 **Problem Statement:**
 It’s not too early to start planning a post-pandemic road trip!  If you stop and think about it, finding the
